@@ -1,4 +1,4 @@
-![EkranKayd2024-10-1219 13 40-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0ef92759-0584-499f-9da9-ea93a950254c)# Emartech_Building
+
 
 # Özellikler
 - Kullanıcı dostu arayüz
